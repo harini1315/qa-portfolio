@@ -36,4 +36,4 @@
 | **API Testing** | Postman, REST API, JSON Schema Validation, Data Chaining, Environment Variables |
 | **Test Design & Methodology** | Requirements Traceability Matrix (RTM), Test Case Design, Functional & E2E Testing, Persona Testing |
 | **Defect Management** | Jira (Severity Classification, Root Cause Steps, Bug Reporting) |
-| **Version Control & Docs** | Markdown, Git, GitHub |
+| **Version Control & Docs** | Markdown, GitHub |
