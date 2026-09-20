@@ -25,7 +25,7 @@
   * **Integration & E2E Validation:** Validated API workflows through Integration and End-to-End testing using Create → Retrieve → Update → Verify → Delete operations, checking response data and expected behavior across dependent requests.
   * **Defect Management:** Identified and documented functional and data-handling defects in **Jira**, including missing mandatory fields and incorrect payload behavior, with clear reproduction steps and expected versus actual results.
 * **Artifacts:**
-  * [API Test Summary Report](./Swagger-Petstore-QA-Portfolio/09-test-Summary.md)
+  * [API Test Summary Report](./Swagger-Petstore-QA-Portfolio/09-Test-Summary/Test-Summary-Report.md)
   * [Postman Collections & Environment Files](./Swagger-Petstore-QA-Portfolio/)
   * [Jira Defect Logs](./Swagger-Petstore-QA-Portfolio/)
 
