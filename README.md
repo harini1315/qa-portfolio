@@ -12,8 +12,10 @@
   * **Persona-Based Defect Discovery:** Leveraged application test personas (`standard_user`, `problem_user`, `error_user`) to identify, reproduce, and document **7 functional and UI defects** with detailed reproduction steps.
   * **Coverage:** Executed positive, negative, and edge-case End-to-End user workflows across varied user states.
 * **Artifacts:**
-  * [Test Plan & RTM Matrix](./saucedemo-manual-qa/test-plan-rtm.md)
-  * [Defect Reports & Test Case Execution Logs](./saucedemo-manual-qa/)
+  * [Test Plan & Test Scenarios](./saucedemo-manual-qa/02-Test-Planning/)
+  * [Requirements Traceability Matrix (RTM)](./saucedemo-manual-qa/08-Traceability/Requirements-Traceability-Matrix.md/)
+  * [Defect Reports](./saucedemo-manual-qa/07-Defects/README.md/)
+
 
 ### 2. REST API & Functional QA Project — Swagger Petstore
 
@@ -26,7 +28,6 @@
   * **Defect Management:** Identified and documented functional and data-handling defects in **Jira**, including missing mandatory fields and incorrect payload behavior, with clear reproduction steps and expected versus actual results.
 * **Artifacts:**
   * [API Test Summary Report](./Swagger-Petstore-QA-Portfolio/09-Test-Summary/Test-Summary-Report.md)
-  * [Postman Collections & Environment Files](./Swagger-Petstore-QA-Portfolio/)
   * [Jira Defect Logs](./Swagger-Petstore-QA-Portfolio/)
 
 ---
