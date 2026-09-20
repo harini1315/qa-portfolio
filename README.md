@@ -28,7 +28,7 @@
   * **Defect Management:** Identified and documented functional and data-handling defects in **Jira**, including missing mandatory fields and incorrect payload behavior, with clear reproduction steps and expected versus actual results.
 * **Artifacts:**
   * [API Test Summary Report](./Swagger-Petstore-QA-Portfolio/09-Test-Summary/Test-Summary-Report.md)
-  * [Jira Defect Logs](./Swagger-Petstore-QA-Portfolio/)
+  * [Jira Defect Logs](./Swagger-Petstore-QA-Portfolio/05-Jira-Defects/Defect-References.md/)
 
 ---
 
