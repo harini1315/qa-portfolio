@@ -215,7 +215,6 @@ Since the defects were not fixed and retested as part of this project, their cur
 
 **Status: Open**
 
-No claims are made regarding corrective implementation or retesting.
 
 ## 8. Defect Traceability Summary
 
