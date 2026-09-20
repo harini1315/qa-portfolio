@@ -25,7 +25,7 @@
 * **Artifacts:**
   * [API Test Summary Report](./project-2/test-summary.md)
   * [Postman Collections & Environment Files](./project-2/)
-  * [Jira Defect Logs](./project-2/)
+  * [Jira Defect Logs](./Swagger-Petstore-QA-Portfolio/)
 
 ---
 
