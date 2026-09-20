@@ -67,10 +67,22 @@ The behavior was observed using the following invalid credentials:
 
 Both requests returned `200 OK`. 
 
-### Expected Result & QA Note
+### Expected Result
 
-- In a production-grade application, the backend should validate passwords and return `400 Bad Request` or `401 Unauthorized` for invalid entries.
-- In this public sandbox environment, this is recognized as an API mock environment limitation rather than a critical application security bug.
+Invalid credentials should not result in a successful login response or
+session token.
+
+### Actual Result
+
+The endpoint returned `200 OK` and a session token string despite the
+invalid password.
+
+### QA Note
+
+This behavior was observed in the public Swagger Petstore mock environment
+and may reflect the simplified behavior of the sandbox rather than a
+production authentication implementation.
+
 
 ### Evidence
 
